@@ -21,5 +21,6 @@ keeping in mind you're using a chromium based browser
 - install gnome tweaks
 
 Now run the script it'll extract the theme files and place them in /usr/share/themes/ and /usr/share/icons
+ cmd: sudo ./setup.sh
 
 ps: I'll improve the script time to time to increase automation
